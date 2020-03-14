@@ -91,11 +91,6 @@ CCTV9[960*540],https://116.77.72.195/streams/d/cctv9/playlist.m3u8
 CCTV9HD,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226174/index.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 地方频道,#genre#
-DOX新艺[768*432],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
-DOX新知[768*432],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
-DOX雅趣[768*432],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-DOX怡家[768*432],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦[768*432],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
 FOX電影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 FZTV1[960*540],http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
 FZTV-2[1024*576],http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
