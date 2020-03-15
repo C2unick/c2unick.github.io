@@ -1,3 +1,9 @@
+https://c2unick.github.io/itv/tv.txt
+https://c2unick.github.io/itv/mov.txt
+https://c2unick.github.io/itv/tv.m3u
+https://c2unick.github.io/itv/mov.m3u
+
+
 TXT格式
 央视频道,#genre#
 CCTV-1综合HD,http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
