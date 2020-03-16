@@ -1,16 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,CCTV4高清
-http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1,0TVB翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=30&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1,0TVB翡翠台[1024*576]
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1,10浙江教育科技
-http://yf-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k=081fd5478f77ca96d036894bd58f31f7&t=1577153579
-#EXTINF:-1,10浙江留学频道
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
-#EXTINF:-1,10浙江钱江
-http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 #EXTINF:-1,BestTV 4K1[3840*2160]
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1,CCTV 4K 10线[768*432]
