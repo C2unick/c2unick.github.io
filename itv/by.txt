@@ -1,3 +1,4 @@
+北邮
 CCTV-1高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-3高清,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
