@@ -1,0 +1,825 @@
+#EXTM3U
+#EXTINF:-1 group-title="数字频道",嘉佳卡通
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240087_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",金鹰卡通
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240050_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",卡酷少儿
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240051_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",星影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",足球
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240309_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",美妆
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240310_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",军事
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240311_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",武术
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240312_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",山东教育
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240304_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",财富天下
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240148_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",熊猫频道
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",精选电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",戏剧影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",动作电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",家庭影院
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",熊猫频道FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240263_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",金鹰纪实FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",爱上4k
+http://1.180.237.9:80/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",黑莓电影
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="数字频道",黑莓动画
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 group-title="数字频道",纯享4K[3840*2160]
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV-3+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV-5+FHD
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV-5+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV-6+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV-8+
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV野外
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV法治
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV热播剧场
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV经典电影
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV魅力时尚
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV少儿动画
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV谍战剧场
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",IPTV相声小品
+http://1.180.237.9/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8
+#EXTINF:-1 group-title="数字频道",CCTV兵器科技频道
+http://live.hcs.cmvideo.cn/ws_v/2018/gfjs/gfjs450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019526&pid=2028597799&timestamp=20200111203805&Channel_ID=H5_&ProgramID=623338073&ParentNodeID=-99&assertID=2200019526&client_ip=61.160.247.210&SecurityKey=20200111203805&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=09a16a1329ad547d89379c174f449635&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3ae3cc41a717d53fce3ca8e9ff591d15
+#EXTINF:-1 group-title="数字频道",CCTV发现之旅频道
+http://live.hcs.cmvideo.cn/wd_r3/cnr/faxianzhilv/1000/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20200111212831&Channel_ID=H5_&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=61.160.247.210&SecurityKey=20200111212831&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=0d38388ccc0948ccaa9b8f9268ac69b5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e4fd3cd285dc6e0aefac86dd0ad01ac5
+#EXTINF:-1 group-title="数字频道",CCTV风云剧场频道
+http://live.hcs.cmvideo.cn/ws_v/2018/fyjc/fyjc450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019164&pid=2028597799&timestamp=20200111203328&Channel_ID=H5_&ProgramID=623338051&ParentNodeID=-99&assertID=2200019164&client_ip=61.160.247.210&SecurityKey=20200111203328&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=3fcdef1b2f983a0b356884eafde6477e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2a1212e482a06da47615b4a3a83ee192
+#EXTINF:-1 group-title="数字频道",CCTV风云音乐频道
+http://live.hcs.cmvideo.cn/ws_v/2018/fyyy/fyyy450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019225&pid=2028597799&timestamp=20200111221508&Channel_ID=H5_&ProgramID=623338072&ParentNodeID=-99&assertID=2200019225&client_ip=61.160.247.210&SecurityKey=20200111221508&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=778adfea73731da8e4d1f6d9a6dbe1f5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ae8d3371954fd6ea1cab3c46003464de
+#EXTINF:-1 group-title="数字频道",CCTV风云足球
+http://live.hcs.cmvideo.cn/ws_v/2018/fyzq/fyzq450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2202124618&pid=2028597799&timestamp=20200111205813&Channel_ID=H5_&ProgramID=621984939&ParentNodeID=-99&assertID=2202124618&client_ip=61.160.247.210&SecurityKey=20200111205813&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=96b9aeee807d4a6719042d2f9faf3068&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a2ccd690bc282b41714e4770f57247a0
+#EXTINF:-1 group-title="数字频道",CCTV怀旧剧场频道
+http://live.hcs.cmvideo.cn/ws_v/2018/hjjc/hjjc450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019453&pid=2028597799&timestamp=20200111202604&Channel_ID=H5_&ProgramID=623364608&ParentNodeID=-99&assertID=2200019453&client_ip=61.160.247.210&SecurityKey=20200111202604&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=946d20e865806ed983186c2d70870f4f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=286b915427661039b2e81c8929e4db5b
+#EXTINF:-1 group-title="数字频道",CCTV世界地理频道
+http://live.hcs.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200111215634&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=61.160.247.210&SecurityKey=20200111215634&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=41fb004b9250bf26c957e56c51585441&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=815c666f00198bbbc2d742be93656710
+#EXTINF:-1 group-title="数字频道",CCTV新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+#EXTINF:-1 group-title="数字频道",CCTV央视文化精品频道
+http://live.hcs.cmvideo.cn/ws_v/2018/ysjp/ysjp450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019507&pid=2028597799&timestamp=20200111192808&Channel_ID=H5_&ProgramID=623338084&ParentNodeID=-99&assertID=2200019507&client_ip=61.160.247.210&SecurityKey=20200111192808&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=1efa2d35771eff342f5c1a00c0f1e816&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ef3987581ea2297ffb85161ed5b26e1
+#EXTINF:-1 group-title="数字频道",欧美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 group-title="数字频道",亚洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 group-title="数字频道",优漫卡通
+http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="数字频道",全电竞
+http://101.71.255.229:6610/zjhs/2/10123/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="数字频道",无台标电影
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="数字频道",无台标电影2
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="数字频道",无台标动画
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="NewTV",Newtv-爱情喜剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-搏击
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-超级电视剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-超级电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-超级综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-潮妈辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-古装剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-海外剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-家庭剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-健康有约
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226306/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-金牌综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-惊悚悬疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-精品大剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-精品记录
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-精品体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-军旅剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-军事评论
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226303/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-农业致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-炫舞未来
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 group-title="NewTV",Newtv-中国功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+#EXTINF:-1 group-title="华数",华数_17
+http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
+#EXTINF:-1 group-title="华数",华数_23
+http://hls-ott-zhibo.wasu.tv/live/198/index.m3u8
+#EXTINF:-1 group-title="华数",华数_49
+http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
+#EXTINF:-1 group-title="华数",华数_公主城堡
+http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
+#EXTINF:-1 group-title="华数",华数_睡前故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 group-title="华数",华数_62
+http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
+#EXTINF:-1 group-title="华数",华数_热血抗战
+http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
+#EXTINF:-1 group-title="华数",华数_71
+http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+#EXTINF:-1 group-title="华数",华数_73
+http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
+#EXTINF:-1 group-title="华数",华数_历史解密
+http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+#EXTINF:-1 group-title="华数",华数_81
+http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
+#EXTINF:-1 group-title="华数",华数_大国时代
+http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+#EXTINF:-1 group-title="华数",华数_科教人文
+http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+#EXTINF:-1 group-title="华数",华数_军事纪实
+http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
+#EXTINF:-1 group-title="华数",华数_BBC系列
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 group-title="华数",华数_11
+http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+#EXTINF:-1 group-title="华数",华数_12
+http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+#EXTINF:-1 group-title="华数",华数_13
+http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+#EXTINF:-1 group-title="华数",华数_14
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+#EXTINF:-1 group-title="华数",华数TV-01
+http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+#EXTINF:-1 group-title="华数",华数TV-03
+http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8
+#EXTINF:-1 group-title="华数",华数TV-14
+http://hls-ott-zhibo.wasu.tv/live/365/index.m3u8
+#EXTINF:-1 group-title="华数",华数TV-22
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 group-title="华数",华数TV-23
+http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="爱奇艺",电影大片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",宫廷正剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",湖南卫视
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_songzhongji_1080p_t10/c20_lb_songzhongji_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",东方卫视
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jiayouernv_1080p_t10/c16_lb_jiayouernv_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",名侦探柯南
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",喜剧大咖
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",相声小品
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",喜羊羊
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",纪晓岚
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jixiaolan_1080p_t10/c16_lb_jixiaolan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",人民的名义
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",小说改编
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaoshuogaibian_1080p_t10/c15_lb_xiaoshuogaibian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",情感调解
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",奇妙世界
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",科学探索
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_温情影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_收视冠军
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_儿童乐园
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_儿歌大全
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_怀旧动画
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_家庭剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_经典港片
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_抗战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_老年剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_历史秘闻
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_仙侠玄幻
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_热播电视剧
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_青春剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_豆瓣高分
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_儿子爸爸
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_谍战剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_动画电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_动作电影
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_周末影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_贺岁影院
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_票房收割机
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_怀旧剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_华语院线
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_婚姻剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_hunyinjuchang_1080p_t10/c16_lb_hunyinjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_经典重温
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_惊悚午夜场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingnawuyechang_1080p_t10/c16_lb_jingnawuyechang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_军旅剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_军事观察
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_超清修复
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_longmenbiaoju_1080p_t10/c16_lb_longmenbiaoju_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_亲子启蒙
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_权谋剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_quanmojuchang_1080p_t10/c16_lb_quanmojuchang_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_欢乐剧场
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_动物兄弟
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_哆啦A梦
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_神探狄仁杰
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_奥特曼
+http://110.185.186.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_aoteman_720p_t10/c20_lb_aoteman_720p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_名侦探柯南
+http://110.185.186.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_mingzhentankenan_720p_t10/c20_lb_mingzhentankenan_720p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_米奇妙妙屋
+http://baiducdnct.inter.ptqy.gitv.tv/tslive/c17_lb_yanchanghui_720p_t10/c17_lb_yanchanghui_720p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_爱情保卫战
+http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_aiqingbaoweizhan_720p_t10/c19_lb_aiqingbaoweizhan_720p_t10.m3u8
+#EXTINF:-1 group-title="爱奇艺",爱奇艺_抗战剧场
+http://118.123.97.43/baiducdnct.inter.iqiyi.com/tslive/c19_lb_kangzhanjuchang_720p_t10/c19_lb_kangzhanjuchang_720p_t10.m3u8
+#EXTINF:-1 group-title="在家旅游",熊猫
+https://gcksc.v.kcdnvip.com/gc/xiongmao05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",熊猫
+https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao13_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",熊猫
+https://gctxyc.liveplay.myqcloud.com/gc/xiongmao20_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",熊猫
+https://gccncc.v.wscdns.com/gc/xiongmao25_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",熊猫
+https://gcdnc.v.dwion.com/gc/xiongmao14_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",中央电视台中塔西
+https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",中央电视台中塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",中央电视台中塔南
+https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",中央电视台中塔北
+https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黟县西递半山亭俯瞰
+https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黟县卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",婺源江岭1
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",婺源江岭2
+https://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山梦笔生花
+https://gccncc.v.wscdns.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山西海峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山光明顶
+https://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山信兴道
+https://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山平天矼
+https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",黄山飞来石
+https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",云台山红石硖
+https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山拱北石
+https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",泰山天街
+https://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",云台山小寨沟
+https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",云台山百家岩
+https://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",张家界迷魂台
+https://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",张家界水绕4门
+https://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",张家界将军列队
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",张家界阿凡达悬浮山
+https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",凤凰古城
+https://gccncc.v.wscdns.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",凤凰古城南华山
+https://gccncc.v.wscdns.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",卢村远眺
+https://gccncc.v.wscdns.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",宠村月沼
+https://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",少林寺广场
+https://gccncc.v.wscdns.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",水长城镜头三
+https://gccncc.v.wscdns.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",水长城镜头四
+https://gccncc.v.wscdns.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",狮子山鸟瞰古城
+https://gccncc.v.wscdns.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",大研花巷景观台
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",普贤菩萨像
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",乐山大佛全景
+https://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",恒宗
+https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",悬空寺侧景
+https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",天涯石
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",日月石
+https://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",观景台
+https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",大水库
+https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",趵突泉
+https://gctxyc.liveplay.myqcloud.com/gc/btq01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",厦门鼓浪屿
+https://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",国家游泳中心（水立方）
+https://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",崇圣寺三塔-湖面倒影
+https://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",朱鹮01
+https://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="在家旅游",天津之眼
+https://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="虎牙",黑帮
+http://al.hls.huya.com/backsrc/30765679-2480288304-10652757150331305984-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",黑帮大片
+http://al.hls.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",李连杰
+http://al.hls.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",情深深雨蒙蒙
+http://al.hls.huya.com/huyalive/94525224-2583571812-11096356439407460352-2847687552-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",黑帮斗争
+http://al.rtmp.huya.com/backsrc/30765679-2480288304-10652757150331305984-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",港产搞笑
+http://al.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",黑帮大片
+http://al.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",李连杰电影
+http://al.rtmp.huya.com/backsrc/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",机甲电影
+http://aldirect.hls.huya.com/backsrc/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",小丑系列
+http://aldirect.hls.huya.com/backsrc/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",的士速递
+http://aldirect.hls.huya.com/backsrc/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",飞车电影
+http://aldirect.hls.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",异形系列
+http://aldirect.hls.huya.com/backsrc/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",金庸作品电影集
+http://aldirect.hls.huya.com/backsrc/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",电影一
+http://aldirect.hls.huya.com/backsrc/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",港产搞笑
+http://aldirect.hls.huya.com/backsrc/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",好莱坞动作片
+http://aldirect.hls.huya.com/backsrc/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",搞笑
+http://aldirect.hls.huya.com/backsrc/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",吴京
+http://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",成龙
+http://aldirect.hls.huya.com/backsrc/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",周润发
+http://aldirect.hls.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",林正英
+http://aldirect.hls.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",刘德华
+http://aldirect.hls.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",女神系列
+http://aldirect.hls.huya.com/backsrc/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",史诗级战争片
+http://aldirect.hls.huya.com/backsrc/94525224-2579672162-11079607570191613952-2789274580-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",东方三侠
+http://aldirect.hls.huya.com/huyalive/1199511997436-1199511997436-5223203582290952192-2399024118328-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",许氏三杰
+http://aldirect.hls.huya.com/huyalive/1448731964-1448731964-6222256406049849344-3048991596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",盗墓
+http://aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="虎牙",女神系列
+http://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",小鬼当家
+http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",轩辕剑
+http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",徐峥
+http://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",小品轮播
+http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",电视剧3
+http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",乐视电视剧
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",大宅门
+http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",吊丝男士
+http://aldirect.hls.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",咱们结婚吧
+http://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",洪金宝
+http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",电影轮播
+http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电视剧1
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",灾难片
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1 group-title="虎牙",龙门镖局
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",特警力量·我是特种兵原班人马
+http://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",西游记
+http://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",康熙王朝
+http://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",甄子丹
+http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1 group-title="虎牙",电影-甄子丹
+http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电视剧4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",高清电影1
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",卧底警匪片
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
+#EXTINF:-1 group-title="虎牙",三国演义
+http://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",仙剑奇侠传
+http://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",家有儿女
+http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",康熙微服私访
+http://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",终极一班
+http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",射雕英雄传
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",僵尸道长·珍藏林阵英僵尸剧
+http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",笑傲江湖-霍建华陈乔恩版
+http://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电影-金庸电影
+http://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",亮剑
+http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",香港卫视卡式台
+http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",港片女神
+http://aldirect.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",电影-重案六组
+http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",倚天屠龙记
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",新三国
+http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",舌尖上的中国
+http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",天龙八部
+http://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",封神榜
+http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电影-黄渤
+http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",MOVIE 6
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",小李飞刀
+http://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",春光灿烂猪八戒
+http://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",篮球火
+http://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电影-徐峥
+http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",天地玄黄
+http://aldirect.hls.huya.com/huyalive/30765679-2691679356-11560674805338341376-2847699204-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",MOVIE 7
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",电视剧2
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",野食小哥
+http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",勇敢者游戏3
+http://aldirect.hls.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",侏罗纪公园
+http://aldirect.hls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",沈腾
+http://aldirect.hls.huya.com/huyalive/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",乐视电影
+http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1 group-title="虎牙",海外影院
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
+#EXTINF:-1 group-title="虎牙",警匪电影
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",高清电影5
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",香港电影
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",海外剧场
+http://tx.hls.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",成龙历险记
+http://tx.hls.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",哆啦A梦
+http://tx.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1.m3u8
+#EXTINF:-1 group-title="虎牙",高清影视
+http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",还珠格格
+http://tx.hls.huya.com/huyalive/30765679-2523417093-10837993888602390528-2789274530-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",古惑仔电影
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",真实改编
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",斯坦森电影
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",周星驰电影
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",电影-林正英
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",刘德华电影
+http://tx.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_2000.m3u8
+#EXTINF:-1 group-title="虎牙",蜡笔小新
+http://tx.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙",医馆笑传
+http://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="虎牙",死神来了
+http://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="CIBN",CIBN综合
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing
+#EXTINF:-1 group-title="CIBN",CIBN中国交通
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
+#EXTINF:-1 group-title="CIBN",CIBN真人秀
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LuShi
+#EXTINF:-1 group-title="CIBN",CIBN院线大片
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DanJi
+#EXTINF:-1 group-title="CIBN",CIBN映画
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TiYu
+#EXTINF:-1 group-title="CIBN",CIBN艺术院线
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YingXiong
+#EXTINF:-1 group-title="CIBN",CIBN怡家
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiaoYu
+#EXTINF:-1 group-title="CIBN",CIBN炫佳动漫
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongMan
+#EXTINF:-1 group-title="CIBN",CIBN新知
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=FengShang
+#EXTINF:-1 group-title="CIBN",CIBN现身说法
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=86
+#EXTINF:-1 group-title="CIBN",CIBN喜剧影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=TongBu
+#EXTINF:-1 group-title="CIBN",CIBN文旅中国
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=MeiZhuang
+#EXTINF:-1 group-title="CIBN",CIBN文旅中国
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=MeiZhuang
+#EXTINF:-1 group-title="CIBN",CIBN微电影
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=WeiDianYing
+#EXTINF:-1 group-title="CIBN",CIBN童学世界
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ReBo
+#EXTINF:-1 group-title="CIBN",CIBN收藏
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=501
+#EXTINF:-1 group-title="CIBN",CIBN时尚生活
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin
+#EXTINF:-1 group-title="CIBN",CIBN时尚前沿
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=87
+#EXTINF:-1 group-title="CIBN",CIBN生活
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YouXi
+#EXTINF:-1 group-title="CIBN",CIBN全电竞
+http://nas.330421.cn:8000/iptv/cibn/?id=1104&code=115
+#EXTINF:-1 group-title="CIBN",CIBN情感影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
+#EXTINF:-1 group-title="CIBN",CIBN汽车
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QiChe
+#EXTINF:-1 group-title="CIBN",CIBN品质生活
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=1
+#EXTINF:-1 group-title="CIBN",CIBN欧洲影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=82
+#EXTINF:-1 group-title="CIBN",CIBN流金岁月
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang
+#EXTINF:-1 group-title="CIBN",CIBN军事
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YinYue
+#EXTINF:-1 group-title="CIBN",CIBN精品影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
+#EXTINF:-1 group-title="CIBN",CIBN经典剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DOTA2
+#EXTINF:-1 group-title="CIBN",CIBN骄阳剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingDian
+#EXTINF:-1 group-title="CIBN",CIBN健康
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JianKang
+#EXTINF:-1 group-title="CIBN",CIBN家居用品
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu
+#EXTINF:-1 group-title="CIBN",CIBN佳片影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=83
+#EXTINF:-1 group-title="CIBN",CIBN纪录片
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiLuPian
+#EXTINF:-1 group-title="CIBN",CIBN环球奇观
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
+#EXTINF:-1 group-title="CIBN",CIBN嗨播音乐综艺
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=145
+#EXTINF:-1 group-title="CIBN",CIBN嗨播莎翁戏剧
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=68
+#EXTINF:-1 group-title="CIBN",CIBN嗨播女团专场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=208
+#EXTINF:-1 group-title="CIBN",CIBN嗨播美食厨房
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=302
+#EXTINF:-1 group-title="CIBN",CIBN嗨播流行榜单
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=155
+#EXTINF:-1 group-title="CIBN",CIBN嗨播老陈坐弹会
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=136
+#EXTINF:-1 group-title="CIBN",CIBN嗨播巨星演唱会
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=135
+#EXTINF:-1 group-title="CIBN",CIBN嗨播精选古典乐
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=78
+#EXTINF:-1 group-title="CIBN",CIBN嗨播经典音乐会
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=128
+#EXTINF:-1 group-title="CIBN",CIBN嗨播经典音乐
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=162
+#EXTINF:-1 group-title="CIBN",CIBN嗨播MV
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=338
+#EXTINF:-1 group-title="CIBN",CIBN嗨播HIHAO TV
+http://nas.330421.cn:8000/iptv/cibn/list.php?pid=HIHAO
+#EXTINF:-1 group-title="CIBN",CIBN嗨播
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LvYou
+#EXTINF:-1 group-title="CIBN",CIBN好莱坞
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ZongHe
+#EXTINF:-1 group-title="CIBN",CIBN古装剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ZongYi
+#EXTINF:-1 group-title="CIBN",CIBN风尚运动
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DuShi
+#EXTINF:-1 group-title="CIBN",CIBN朵Y乐园
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=chanwenhua
+#EXTINF:-1 group-title="CIBN",CIBN斗牛财经
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=126
+#EXTINF:-1 group-title="CIBN",CIBN动作影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
+#EXTINF:-1 group-title="CIBN",CIBN动漫剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=99
+#EXTINF:-1 group-title="CIBN",CIBN动漫剧场
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QinZi
+#EXTINF:-1 group-title="CIBN",CIBN电影综合
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianYing
+#EXTINF:-1 group-title="CIBN",CIBN宝岛风情
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=88
+#EXTINF:-1 group-title="CIBN",CIBN百科实录
+http://nas.330421.cn:8000/iptv/cibn/?id=1102&code=84
