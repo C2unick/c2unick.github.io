@@ -3,7 +3,7 @@ https://c2unick.github.io/itv/mov.txt
 https://c2unick.github.io/itv/tv.m3u
 https://c2unick.github.io/itv/mov.m3u
 https://c2unick.github.io/itv/tv6.m3u
-https://c2unick.github.io/itv/tv6.m3u
+https://c2unick.github.io/itv/tv6.txt
 
 TXT格式
 央视频道
