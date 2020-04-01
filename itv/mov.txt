@@ -19,7 +19,7 @@
 爱上4k,http://1.180.237.9:80/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 黑莓电影,http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 黑莓动画,http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
-纯享4K[3840*2160],http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+纯享4K,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 IPTV-3+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8
 IPTV-5+FHD,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8
 IPTV-5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8
@@ -45,7 +45,6 @@ CCTV央视文化精品频道,http://live.hcs.cmvideo.cn/ws_v/2018/ysjp/ysjp450/3
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 优漫卡通,http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-全电竞,http://101.71.255.229:6610/zjhs/2/10123/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 无台标电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 无台标电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 无台标动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -77,15 +76,11 @@ Newtv-中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 华数
 华数_17,http://hls-ott-zhibo.wasu.tv/live/180/index.m3u8
 华数_23,http://hls-ott-zhibo.wasu.tv/live/198/index.m3u8
-华数_49,http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
 华数_公主城堡,http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 华数_睡前故事,http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-华数_62,http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
 华数_热血抗战,http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
 华数_71,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
-华数_73,http://hls-ott-zhibo.wasu.tv/live/367/index.m3u8
 华数_历史解密,http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-华数_81,http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
 华数_大国时代,http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
 华数_科教人文,http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
 华数_军事纪实,http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
@@ -100,7 +95,6 @@ Newtv-中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 华数TV-22,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 华数TV-23,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 爱奇艺
-爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -131,7 +125,6 @@ Newtv-中国功夫,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/
 人民的名义,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
 小说改编,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaoshuogaibian_1080p_t10/c15_lb_xiaoshuogaibian_1080p_t10.m3u8
 情感调解,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
-奇妙世界,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
 科学探索,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
 爱奇艺_温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
 爱奇艺_收视冠军,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
