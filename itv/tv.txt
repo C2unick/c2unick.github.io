@@ -91,7 +91,3 @@ CCTV4K,https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f5
 河北影视,http://live5.plus.hebtv.com/hbys/sd/live.m3u8
 河北少儿,http://live5.plus.hebtv.com/sekj/sd/live.m3u8
 河北农民,http://live4.plus.hebtv.com/hbnm/sd/live.m3u8
-石家庄都市,http://stream.sjzntv.cn/4/sd/live.m3u8?_upt=073073b81585565867
-石家庄娱乐,http://stream.sjzntv.cn/2/sd/live.m3u8?_upt=bc953b461585565860
-石家庄生活,http://stream.sjzntv.cn/3/sd/live.m3u8?_upt=920b2f1c1585565863
-石家庄新闻,http://stream.sjzntv.cn/1/sd/live.m3u8?_upt=b099d0af1585565849
