@@ -1,6 +1,11 @@
 https://github.com/lhie1/Rules
 https://github.com/h2y/Shadowrocket-ADBlock-Rules
 https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+Easylist官方规则
+https://easylist.to/easylist/easylist.txt
+https://sub.adtchrome.com/adt-chinalist-easylist.txt
+Easylistchina中文补充规则
+https://easylist-downloads.adblockplus.org/easylistchina.txt
 https://github.com/privacy-protection-tools/anti-AD
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 AdAway，https://adaway.org/hosts.txt
@@ -11,15 +16,8 @@ My AdFilters，https://gitee.com/halflife/list/raw/master/ad.txt
 CJX's uBlock list，https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 EasyPrivacy，https://easylist-downloads.adblockplus.org/easyprivacy.txt
 I don't care about cookies，https://www.i-dont-care-about-cookies.eu/abp/
-Easylist官方规则
-https://easylist.to/easylist/easylist.txt
-https://sub.adtchrome.com/adt-chinalist-easylist.txt
-Easylistchina中文补充规则
-https://easylist-downloads.adblockplus.org/easylistchina.txt
-
 EasyList Lite中文精简规则
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-
 CJX Annoyance去自我推广列表
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
@@ -31,9 +29,6 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 AdblockPlus官方规则
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
-
-ChinaListV2.0 ：国内大部分视频网站的广告过滤
-http://tools.yiclear.com/ChinaList2.0.txt
 
 Fanboy+Easylist-Merged Ultimate List
 https://fanboy.co.nz/r/fanboy-ultimate.txt
