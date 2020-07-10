@@ -11,32 +11,25 @@ My AdFilters，https://gitee.com/halflife/list/raw/master/ad.txt
 CJX's uBlock list，https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 EasyPrivacy，https://easylist-downloads.adblockplus.org/easyprivacy.txt
 I don't care about cookies，https://www.i-dont-care-about-cookies.eu/abp/
-Easylist
-官方规则
+Easylist官方规则
 https://easylist.to/easylist/easylist.txt
 https://sub.adtchrome.com/adt-chinalist-easylist.txt
-Easylistchina
-中文补充规则
+Easylistchina中文补充规则
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 
-EasyList Lite
-中文精简规则
+EasyList Lite中文精简规则
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 
-CJX Annoyance
-去自我推广列表
+CJX Annoyance去自我推广列表
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
-NeoHosts
-国内屏蔽挖矿统计 JS&360 & 百度 & 劫持 & 反感激进内容等
+NeoHosts国内屏蔽挖矿统计 JS&360 & 百度 & 劫持 & 反感激进内容等
 https://hosts.nfz.moe/full/hosts
 
-EasyPrivacy
-隐私保护
+EasyPrivacy隐私保护
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
-AdblockPlus
-官方规则
+AdblockPlus官方规则
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 
 ChinaListV2.0 ：国内大部分视频网站的广告过滤
@@ -44,47 +37,3 @@ http://tools.yiclear.com/ChinaList2.0.txt
 
 Fanboy+Easylist-Merged Ultimate List
 https://fanboy.co.nz/r/fanboy-ultimate.txt
-
-AdAway
-https://adaway.org/hosts.txt
-
-乘风 视频
-https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
-
-乘风 广告
-https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
-
-My AdFilters
-https://gitee.com/halflife/list/raw/master/ad.txt
-
-隐私相关
-CJX's uBlock list
-https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
-
-EasyPrivacy
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
-
-I don't care about cookies
-https://www.i-dont-care-about-cookies.eu/abp/
-
-
-
-
-腾讯视频lives.l.qq.com
-爱奇艺——t7z.cupid.iqiyi.com
-爱奇艺——irs01.com
-iqiyipic.com爱奇艺源过滤规则
-cupid.iqiyi.com
-芒果TV——py.da.mgtv.com
-芒果TV——y.da.hunantv.com
-搜狐视频——api.tv.sohu.com
-搜狐视频——m.aty.sohu.com
-华数TV——qc.hd.sohu.com.cn
-小米视频——api.ad.xiaomi.com
-小米视频——data.mistat.xiaomi.com
-小米视频——a.market.xiaomi.com
-video.market.xiaomi.com，
-小米视频，视频播放下方APP下载广告过滤规则
-feedback.71.am
-sinaimg.cn，
-img3.funshion.com
